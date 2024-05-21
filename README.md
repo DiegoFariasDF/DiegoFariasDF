@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Diego 👋
 
-<!--
-**DiegoFariasDF/DiegoFariasDF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por tecnologia e programação.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end**: HTML, CSS, JavaScript
+- **Back-end**: PHP, Node.js (em aprendizado)
+- **Python**: Nível júnior
+
+## 🌱 Atualmente Estou Aprendendo
+
+- PHP e Node.js para desenvolvimento back-end
+
+## 📂 Meus Projetos
+
+### Front-end
+
+- **[diegofarias.online](#)**: Um portfolio para demonstrar minhas habilidades
+- **[matheusbarros](#)**: Um portfolio feito para um professor de natação.
+
+### Python
+
+- **[MediaUNIVESP](#)**: Descrição curta do projeto.
+
+## 📫 Como Me Encontrar
+
+- **Email**: [diego.dev@diegofarias.online]
+- **LinkedIn**: [Seu LinkedIn](#)
+- **Site**: [https://diegofarias.online](#)
+
+Obrigado por visitar meu perfil!
