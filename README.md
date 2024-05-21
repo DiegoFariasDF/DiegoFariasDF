@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por t
 
 ## 📫 Como Me Encontrar
 
-- **Email**: [diego.dev@diegofarias.online]
+- **Email**: diego.dev@diegofarias.online
 - **LinkedIn**: [Seu LinkedIn](#)
 - **Site**: [https://diegofarias.online](#)
 
