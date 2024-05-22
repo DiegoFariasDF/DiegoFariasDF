@@ -21,7 +21,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por t
 
 ### Python
 
-- **[Media UNIVESP] (https://github.com/DiegoFariasDF/MediaUNIVESP)(#)**: Descrição curta do projeto.
+- **[Media UNIVESP](https://github.com/DiegoFariasDF/MediaUNIVESP)(#)**: Descrição curta do projeto.
 
 ## 📫 Como Me Encontrar
 
