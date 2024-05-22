@@ -16,17 +16,17 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por t
 
 ### Front-end
 
-- **[diegofarias.online(https://diegofarias.online)](#)**: Um portfolio para demonstrar minhas habilidades
-- **[matheusbarros(https://github.com/DiegoFariasDF/matheusbarros)](#)**: Um portfolio feito para um professor de natação.
+- **[diegofarias.online](https://diegofarias.online)(#)**: Um portfolio para demonstrar minhas habilidades
+- **[matheusbarros](https://github.com/DiegoFariasDF/matheusbarros)(#)**: Um portfolio feito para um professor de natação.
 
 ### Python
 
-- **[Media UNIVESP (https://github.com/DiegoFariasDF/MediaUNIVESP)](#)**: Descrição curta do projeto.
+- **[Media UNIVESP] (https://github.com/DiegoFariasDF/MediaUNIVESP)(#)**: Descrição curta do projeto.
 
 ## 📫 Como Me Encontrar
 
 - **Email**: diego.dev@diegofarias.online
-- **LinkedIn**: [[Diego Farias](https://www.linkedin.com/in/diego-farias-05378a216/)](#)
-- **Site**: [diegofarias.online(https://diegofarias.online)](#)
+- **LinkedIn**: [[Diego Farias](https://www.linkedin.com/in/diego-farias-05378a216/)(#)
+- **Site**: [diegofarias.online](https://diegofarias.online)(#)
 
 Obrigado por visitar meu perfil!
