@@ -8,6 +8,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por t
 - **Back-end**: PHP, Node.js (em aprendizado)
 - **Python**: Nível júnior
 
+  ## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@diegofariaspl7396/30-nites-of-code)  
+  ![@diegofariaspl7396 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=diegofariaspl7396)
+
 ## 🌱 Atualmente Estou Aprendendo
 
 - PHP e Node.js para desenvolvimento back-end
