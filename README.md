@@ -19,6 +19,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por t
 
 - **[diegofarias.online](https://diegofarias.online)(#)**: Um portfolio para demonstrar minhas habilidades
 - **[matheusbarros](https://github.com/DiegoFariasDF/matheusbarros)(#)**: Um portfolio feito para um professor de natação.
+- **[Global-Temp](https://global-temp.vercel.app/)(#)**: Site desenvolvido para mostrar a temperatura em determinada cidade.
 
 ### Python
 
