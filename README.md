@@ -7,6 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por t
 - **Front-end**: HTML, CSS, JavaScript
 - **Back-end**: PHP, Node.js (em aprendizado)
 - **Python**: Nível júnior
+- **Java-Script**: Nível júnior
 
 
 ## 🌱 Atualmente Estou Aprendendo
