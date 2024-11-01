@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por t
 ## 🚀 Sobre Mim
 
 - **Front-end**: HTML, CSS, JavaScript
-- **Back-end**: PHP, Node.js
+- **Back-end**: PHP, Java
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor júnior apaixonado por t
 
 ## 🌱 Atualmente Estou Aprendendo
 
-- PHP e Node.js para desenvolvimento back-end
+- PHP e Java para desenvolvimento back-end
 
 
 ## 📂 Meus Projetos
